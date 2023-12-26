@@ -1,4 +1,13 @@
 ### Hi there 👋
+![Static Badge](https://img.shields.io/badge/Ohad_Taizi--bleak)
+
+![npm](https://img.shields.io/npm/v/react)
+![Static Badge](https://img.shields.io/badge/React--green?logo=react&logoColor=61DBFB&labelColor=black)
+![Static Badge](https://img.shields.io/badge/JavaScript--yellow?logo=JavaScript&logoColor=yellow&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Java--red?logo=Java&logoColor=red&labelColor=black)
+![Static Badge](https://img.shields.io/badge/C%2B%2B--pink?logo=C%2B%2B&logoColor=pink&labelColor=black)
+![Static Badge](https://img.shields.io/badge/C--gold?logo=C&logoColor=gold&labelColor=black)
+
 
 <!--
 **ohadtaizi/ohadtaizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
