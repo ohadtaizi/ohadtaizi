@@ -13,7 +13,7 @@ from collections import defaultdict
 
 # Replace 'your_github_username' and 'your_github_token' with your GitHub username and personal access token
 username = "ohadtaizi"
-token = "your_github_token"
+token = "ohadtaizi"
 
 # Function to get all repositories including forks
 def get_repos(username, token):
