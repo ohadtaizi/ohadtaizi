@@ -8,6 +8,7 @@
 ![Static Badge](https://img.shields.io/badge/C%2B%2B--pink?logo=C%2B%2B&logoColor=pink&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/C--gold?logo=C&logoColor=gold&labelColor=black)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohadtaizi&layout=compact)
 
 <!--
 **ohadtaizi/ohadtaizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
