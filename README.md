@@ -1,5 +1,3 @@
-
-
 # Hi there 👋 I'm Ohad Taizi
 
 I’m a self-motivated **Junior Developer** with a passion for coding, problem-solving, and continuous learning. With a background in **QA Engineering** and a **B.Sc in Computer Science and Mathematics**, I strive to create impactful and innovative solutions.
@@ -7,12 +5,14 @@ I’m a self-motivated **Junior Developer** with a passion for coding, problem-s
 ---
 
 ## 🚀 Skills
-![JavaScript](https://img.shields.io/badge/JavaScript--yellow?logo=JavaScript&logoColor=yellow&labelColor=black)
-![React](https://img.shields.io/badge/React--green?logo=react&logoColor=61DBFB&labelColor=black)
-![Python](https://img.shields.io/badge/Python--blue?logo=python&logoColor=blue&labelColor=black)
-![Java](https://img.shields.io/badge/Java--red?logo=Java&logoColor=red&labelColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B--pink?logo=C%2B%2B&logoColor=pink&labelColor=black)
-![C](https://img.shields.io/badge/C--gold?logo=C&logoColor=gold&labelColor=black)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</p>
 
 ---
 
@@ -28,17 +28,28 @@ I’m a self-motivated **Junior Developer** with a passion for coding, problem-s
 ---
 
 ## 💬 Let's Connect
-- 📫 **Email**: [ohadtaizi@example.com](mailto:ohadtaizi111@gmail.com)
-- 💼 **LinkedIn**: [Ohad Taizi](https://linkedin.com/in/ohadtaizi)
-- 🌐 **Portfolio**: [ohadtaizi.com](https://ohadtaizi.com)
+<p align="left">
+  <a href="mailto:ohadtaizi111@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/ohadtaizi">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://ohadtaizi.com">
+    🌐 Portfolio
+  </a>
+</p>
 
 ---
 
 <details>
 <summary>💻 Technical Skills</summary>
-<ul>
-  <li>JavaScript</li>
-  <li>React</li>
-  <li>Python</li>
-  <li>Java</li>
-  <li>C
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> JavaScript<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/> React<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/> Python<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/> Java<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/> C++<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30"/> C<br>
+</p>
+</details>
