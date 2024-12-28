@@ -30,8 +30,10 @@ I’m a self-motivated **Junior Developer** with a passion for coding, problem-s
 
 ---
 
-## 📈 Activity Graph
-![Ohad's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ohadtaizi&theme=react-dark)
+
+## 📊 GitHub Stats
+![Ohad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohadtaizi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ohadtaizi&layout=compact&theme=radical)
 
 ---
 
