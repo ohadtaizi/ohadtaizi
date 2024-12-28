@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ohad Taizi
 
-I’m a self-motivated **Junior Developer** with a passion for coding, problem-solving, and continuous learning. With a background in **QA Engineering** and a **B.Sc in Computer Science and Mathematics**, I strive to create impactful and innovative solutions.
+I’m a self-motivated **Developer** with a passion for coding, problem-solving, and continuous learning. With a background in **QA Engineering** and a **B.Sc in Computer Science and Mathematics**, I strive to create impactful and innovative solutions.
 
 ---
 
