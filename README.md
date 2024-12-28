@@ -31,11 +31,7 @@ I’m a self-motivated **Junior Developer** with a passion for coding, problem-s
 ---
 
 
-## 📊 GitHub Stats
-![Ohad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohadtaizi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ohadtaizi&layout=compact&theme=radical)
 
----
 
 ## 💬 Feel Free to Contact Me
 <p align="left">
