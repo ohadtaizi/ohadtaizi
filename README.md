@@ -35,18 +35,19 @@ I’m a self-motivated **Junior Developer** with a passion for coding, problem-s
 
 ---
 
-## 💬 Let's Connect
+## 💬 Feel Free to Contact Me
 <p align="left">
-  <a href="mailto:ohadtaizi111@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/ohadtaizi">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://ohadtaizi.com">
-    🌐 Portfolio
-  </a>
+  <span>
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail Icon" width="20" height="20"/> 
+    <a href="mailto:ohadtaizi111@gmail.com" style="text-decoration: none; color: white; background-color: red; padding: 5px 10px; border-radius: 5px;">ohadtaizi111@gmail.com</a>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" width="20" height="20"/> 
+    <a href="https://linkedin.com/in/ohadtaizi" style="text-decoration: none; color: white; background-color: #0A66C2; padding: 5px 10px; border-radius: 5px;">LinkedIn</a>
+  </span>
 </p>
+
 
 ---
 
