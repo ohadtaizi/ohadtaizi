@@ -31,7 +31,9 @@ I’m a self-motivated **Junior Developer** with a passion for coding, problem-s
 ---
 
 
-
+## 🌟 Latest new project
+- **[SoundStreaminc]([https://github.com/yourusername/projectname](https://github.com/orgs/soundStreaminc/repositories))**: A fullstack web application for listening to songs and playlists for free, built using **React**, **Node.js**, and **MongoDB**.
+---
 
 ## 💬 Feel Free to Contact Me
 <p align="left">
