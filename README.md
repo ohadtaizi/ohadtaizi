@@ -1,4 +1,4 @@
-![Welcome Banner](https://your-banner-url.com/banner.png) <!-- Replace with your custom banner -->
+
 
 # Hi there 👋 I'm Ohad Taizi
 
@@ -27,7 +27,17 @@ I’m a self-motivated **Junior Developer** with a passion for coding, problem-s
 - [🚀 **Project 2**](https://github.com/ohadtaizi/project2): _Another awesome project!_
 
 ---
+## 🌟 Notable Contributions
+- Implemented key features in [Organization/Project 1](https://github.com/organization/project1), such as authentication and API integration.
+- Resolved high-priority bugs and optimized database performance in [Organization/Project 2](https://github.com/organization/project2).
+- Enhanced UI/UX and frontend performance for [Organization/Project 3](https://github.com/organization/project3).
 
+## 📈 Activity Graph
+![Ohad's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ohadtaizi&theme=react-dark)
+
+## 🏢 Organizations I've Worked With
+- [Organization 1](https://github.com/organization1)
+- [Organization 2](https://github.com/organization2)
 ## 🌱 Currently Learning
 - Advanced **Fullstack Development** techniques
 - Building scalable **web applications**
