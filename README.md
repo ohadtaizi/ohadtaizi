@@ -30,8 +30,8 @@ I’m a self-motivated **Junior Developer** with a passion for coding, problem-s
 
 ---
 
-## 🧠 Fun Fact
-> “The best way to predict the future is to invent it.” - Alan Kay
+## 📈 Activity Graph
+![Ohad's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ohadtaizi&theme=react-dark)
 
 ---
 
